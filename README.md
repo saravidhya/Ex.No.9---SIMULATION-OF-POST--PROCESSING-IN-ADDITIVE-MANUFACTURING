@@ -50,7 +50,7 @@
 
 
 
-## NAME : vidhiya lakshimi.S
+## NAME : vidhiya lakshmi.S
 ## Register number : 23012308
 
 ## Result: 
