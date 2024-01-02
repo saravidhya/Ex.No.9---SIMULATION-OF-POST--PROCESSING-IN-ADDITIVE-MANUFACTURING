@@ -35,13 +35,19 @@
 ![Screenshot 2024-01-03 013409](https://github.com/saravidhya/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/87062069/3c5a9462-fca5-4035-b3d7-5e119163bc7f)
 ![Screenshot 2024-01-03 013428](https://github.com/saravidhya/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/87062069/dbb947ef-b6fb-4eaf-b6a4-bf771c9859c1)
 
-![Screenshot 2024-01-03 013451](https://github.com/saravidhya/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/87062069/ec49b00c-cff1-413a-be92-cb07e381c1c5)
+![Screenshot 2024-01-03 015239](https://github.com/saravidhya/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/87062069/993ff673-7db9-4b58-8a55-52eb31220097)
+![Screenshot 2024-01-03 015250](https://github.com/saravidhya/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/87062069/69768a00-2e3a-4552-9384-56b71b588997)
+
+
+
+
 
 ## OUTPUT :
 
 ![Screenshot 2024-01-03 013502](https://github.com/saravidhya/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/87062069/46bdbaad-0466-4092-b44e-d1b31fb89f12)
 
 ![Screenshot 2024-01-03 013514](https://github.com/saravidhya/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/87062069/fbd515ac-e0bd-45c1-9a2e-e3c9a34686d4)
+
 
 
 ## NAME : vidhiya lakshimi.S
